@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Hello/Goodbye</string>
+    <string name="Username">Username</string>
+    <string name="Password">Password</string>
+    <string name="Login">Login</string>
+    <string name="Email">Email</string>
+    <string name="currentLanguage">English</string>
+    <string name="GreetingsButtonLabel">Greetings</string>
+    <string name="GreetingsButtonText">Hello</string>
+    <string name="GoodbyeButtonLabel">Goodbye</string>
+    <string name="GoodbyeButtonText">see you later</string>
+    <string name="NameText">Name</string>
+    <string name="CityText">City</string>
+    <string name="ShowCityButton">Show City</string>
+    <string name="errorMessage">"please fill out all fields and enter the correct User Info"</string>
+    <string name="seconderrorMessage"> Please enter the correct Names of Jane Doe or Mateo Lopez (capitalized)</string>
+    <string name="Loginerror">Login Unsuccessful</string>
+
+
+</resources>

@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Bonjour/Au Revoir</string>
+    <string name="Username">Nom d’utilisateur</string>
+    <string name="Password">Mot de passe</string>
+    <string name="Login">S’identifier</string>
+    <string name="Email">É-mail</string>
+    <string name="currentLanguage">Francais</string>
+    <string name="GreetingsButtonLabel">Salutation</string>
+    <string name="GreetingsButtonText">Bon jour</string>
+    <string name="GoodbyeButtonLabel">Au revoir</string>
+    <string name="GoodbyeButtonText">A plus tard</string>
+    <string name="NameText">Prenom</string>
+    <string name="CityText">Ville</string>
+    <string name="ShowCityButton">Afficher La Ville</string>
+    <string name="errorMessage">veuillez remplir tous les champs et entrer les informations utilisateur correctes</string>
+    <string name="seconderrorMessage">Veuillez entrer les noms corrects de Jane Doe ou Mateo Lopez (en majuscules)</string>
+    <string name="Loginerror">Échec de la connexion</string>
+
+</resources>

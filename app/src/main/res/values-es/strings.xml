@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Hola/Adios</string>
+    <string name="Username">Nombre de usuario</string>
+    <string name="Password">Contrasena</string>
+    <string name="Login">Iniciar sesion</string>
+    <string name="Email">Correo electrónico</string>
+    <string name="currentLanguage">Espanol</string>
+    <string name="GreetingsButtonLabel">Saludo</string>
+    <string name="GreetingsButtonText">Hola</string>
+    <string name="GoodbyeButtonLabel">Adios</string>
+    <string name="GoodbyeButtonText">Hasta luego</string>
+    <string name="NameText">Nombre</string>
+    <string name="CityText">Ciudad</string>
+    <string name="ShowCityButton">Mostrar Ciudad</string>
+    <string name="errorMessage">"complete todos los campos e ingrese la información de usuario correcta"</string>
+    <string name="seconderrorMessage">Ingrese los nombres correctos de Jane Doe o Mateo López (en mayúsculas)</string>
+    <string name="Loginerror">Inicio de sesión fallido</string>
+
+
+
+</resources>
